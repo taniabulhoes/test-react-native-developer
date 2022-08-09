@@ -39,6 +39,7 @@
 4. Edição e exclusão de tarefa
 5. Exibir alerta de confirmaçao de exclusão
 6. Exibir Toaster feedbacks para erros que acontecerem na aplicação
+7. Estrutura de estado global da aplicação (Context API, Redux, etc)
 
 *Obs.: Não é obrigatório criar página de login, mas caso queira será considerado um diferencial* <br>
 *Obs².: Não é obrigatório seguir fielmente as cores e icones do protótipo, mas é importante tentar seguir a mesma estrutura (etapas, fluxos e afins)*
