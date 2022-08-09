@@ -54,8 +54,8 @@
   description: String,
   date: DateTime,
   completed: Boolean,
-  created_at: Date
-  updated_at: Date
+  createdAt: Date
+  updatedAt: Date
 }
 ```
 
