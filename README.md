@@ -18,13 +18,17 @@
 - Testes unitários
 
 ## Como participar?
-> Basta fazer clone deste repositório e após finalizar a prova criar um Pull Request com o código do app para ser analisado por nós. :D
-> No PR deixe qualquer diretiva necessária para rodar o projeto (Comandos para rodar a aplicação, testes, etc), bem como dependências (banco de dados, etc) localmente.
+> 1 - Clone este repositório
+> 2 - Crie uma branch com o seguinte padrão de nomeclatura `devtest-{seu_primeiro_nome}-{seu_sobrenome}`. (Ex:. `devtest-diego-vilarinho`)
+> 3 - Durante seu seu desenvolvimento, vá realizando commits nessa sua nova branch
+> 4 - Após finalizar a prova, crie um Pull Request com o código do app para ser analisado por nós. :D
+> 5 - Importante subir o APK para rodar o app em um dispositivo Android no commit final, pois será necessário para avaliação. Pode subir na raiz do projeto.
+> Na descrição do PR, deixe qualquer diretiva necessária para rodar o projeto (Comandos para rodar a aplicação, testes, etc), bem como dependências (banco de dados, etc) localmente.
 
 ## Detalhes da prova
-> A prova consiste em criar um app simples de To Do List (Lista de tarefas). <br>
+> A prova consiste em criar um app simples de **To Do List (Lista de tarefas)**. <br>
 > Sinta-se à vontade para utilizar quaisquer libs que desejar (Axios, Dio, etc). <br>
-> Um build, resultando em uma apk (instalador) para Android deve ser gerado e a aplicação deverá rodar sem erros em um device real para fins de testes. <br>
+> **Um build, resultando em uma apk (instalador) para Android deve ser gerado e a aplicação deverá rodar sem erros em um device real para fins de testes.** <br>
 
 ### Funcionalidades
 > Deve conter no app as seguintes funcionalidades:
