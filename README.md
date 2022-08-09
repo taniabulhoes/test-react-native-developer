@@ -64,7 +64,7 @@
 
 ## Dúvidas?
 > diego.vilarinho@taniabulhoes.com.br <br>
-> Company Presentation: https://tbi.taniabulhoes.com.br/
-> Ecommerce: https://www.taniabulhoes.com.br/
+> Company Presentation: https://tbi.taniabulhoes.com.br/ <br>
+> Ecommerce: https://www.taniabulhoes.com.br/ <br>
 
 ### Desde já agradecemos e boa sorte! ;)
