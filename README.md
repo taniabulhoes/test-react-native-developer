@@ -18,12 +18,12 @@
 - Testes unitários
 
 ## Como participar?
-> 1 - Clone este repositório
-> 2 - Crie uma branch com o seguinte padrão de nomeclatura `devtest-{seu_primeiro_nome}-{seu_sobrenome}`. (Ex:. `devtest-diego-vilarinho`)
-> 3 - Durante seu seu desenvolvimento, vá realizando commits nessa sua nova branch
-> 4 - Após finalizar a prova, crie um Pull Request com o código do app para ser analisado por nós. :D
-> 5 - Importante subir o APK para rodar o app em um dispositivo Android no commit final, pois será necessário para avaliação. Pode subir na raiz do projeto.
-> Na descrição do PR, deixe qualquer diretiva necessária para rodar o projeto (Comandos para rodar a aplicação, testes, etc), bem como dependências (banco de dados, etc) localmente.
+1. Clone este repositório
+2. Crie uma branch com o seguinte padrão de nomeclatura `devtest-{seu_primeiro_nome}-{seu_sobrenome}`. (Ex:. `devtest-diego-vilarinho`)
+3. Durante seu seu desenvolvimento, vá realizando commits nessa sua nova branch
+4. Após finalizar a prova, crie um Pull Request com o código do app para ser analisado por nós. :D
+5. Importante subir o APK para rodar o app em um dispositivo Android no commit final, pois será necessário para avaliação. Pode subir na raiz do projeto. <br>
+> Na descrição do PR, deixe qualquer diretiva necessária para rodar o projeto (Comandos para rodar a aplicação, testes, etc), bem como dependências (banco de dados, etc) localmente. <br>
 
 ## Detalhes da prova
 > A prova consiste em criar um app simples de **To Do List (Lista de tarefas)**. <br>
@@ -34,8 +34,8 @@
 > Deve conter no app as seguintes funcionalidades:
 
 1. Navegação com dados do usuário e itens de menu
-1. Listagem de tarefas
-2. Criação de nova tarefa
+2. Listagem de tarefas
+3. Criação de nova tarefa
 4. Edição e exclusão de tarefa
 5. Exibir alerta de confirmaçao de exclusão
 6. Exibir Toaster feedbacks para erros que acontecerem na aplicação
